@@ -78,7 +78,9 @@ CREATE SCHEMA raw_data;
 - [Airflow Documentation](https://airflow.apache.org/docs/)
 
 ---
-### Authors:
-Shashidhar Babu & Team  
+### Team:
+Shashidhar Babu P V D
+Vineeth Rayadurgam 
+
 DATA 226 - Spring 2025
 
